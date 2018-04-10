@@ -120,3 +120,13 @@ div {
   flex-direction: column;
   justify-content: center;
 }
+
+#contact {
+  height: 200px;
+  color: seashell;
+}
+
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
